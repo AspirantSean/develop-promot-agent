@@ -1,4 +1,4 @@
-# Claude/Cursor/trae trae AI IDE智能体提示词合集
+# Claude/Cursor/trae AI IDE智能体提示词合集
 
 > 🚀 这是一个包含61个专业领域智能体提示词的完整合集，专为Claude/Cursor/trae设计，涵盖从编程语言到业务分析的各个专业领域。
 
